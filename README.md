@@ -1,6 +1,7 @@
 # Hangman
 ece 2524 erxiang xu
-                                               Hangman    
+                                                  Hangman  
+                                               
 Objective 
 
 Using python to create a hangman game. This will be a traditional hangman: en.wikipedia.org/wiki/Hangman_(game) 
